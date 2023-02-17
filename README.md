@@ -3,7 +3,7 @@
 ### It is simple end-to-end project on fake news v/s real news detection/classification. Here I used a data from Kaggle.
 ### Accuracy achived using Logistic Regression model and TF-IDF is: 97.2%
 
-# Demo
+# To Run Application
 #### The webpage has a simple interface with text box for entering your news article and button upon clicking which, the app predicts if the article is fake news or real news.
 1.Enter your news article and click on the 'Predict' button below.
 ![Screenshot (275)](https://user-images.githubusercontent.com/114423987/192850963-a678e275-4197-446f-bddb-e4931d3bcb51.png)
